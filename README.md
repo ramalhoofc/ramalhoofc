@@ -1,3 +1,9 @@
+<!---comentarios --->
+![](https://i.makeagif.com/media/9-28-2016/B6nYIC.gif)
+
+<!---especial repositorio sobre github --->
+
+<!---comentário, serve para esconder ou ocultar comentário --->
 # sobre mim **RAMALHO**
 ## *ramalhozo_taloko*
 #### CAST NO SHADOWN
